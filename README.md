@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OLLHpiQA)
-- NOM : 
-- PRÉNOM :
-- URL du site :
-- URL FIGMA :
+- NOM : Dejeux
+- PRÉNOM : Antoine
+- URL du site : https://replicastreet.netlify.app
+- URL FIGMA : https://www.figma.com/file/x6ZGqADOkGuFKJJ55sBVtj/Maquettes-projet-individuel-%E2%80%94-Antoine-Dejeux?type=design&node-id=1603%3A152&mode=design&t=BGKd2JcEAbcPSBIr-1
 
 # Structure de départ pour le projet individuel.
 
